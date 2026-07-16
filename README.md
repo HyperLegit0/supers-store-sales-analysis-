@@ -29,8 +29,8 @@ Excel — Pivot Tables, Power Query, Interactive Slicers,
 pivot charts
 
 # Key Metrics
-Total Sales: $22,97,200.86
-Total Profit: $2,86,397.02
+Total Sales: $22,97,200.86;
+Total Profit: $2,86,397.02;
 Profit Margin: 12.47%
 
 
