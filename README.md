@@ -2,7 +2,6 @@
 
 <img width="1852" height="777" alt="Screenshot 2026-07-16 125056" src="https://github.com/user-attachments/assets/b2e91e65-ce4f-40fb-967d-362a1e815f20" />
 
-
 This is my first end-to-end Excel dashboard project, built 
 while learning Data Analytics. I used the Superstore dataset 
 to practice Pivot Tables, Power Query, and building an 
@@ -36,5 +35,5 @@ Profit Margin: 12.47%
 
 
 #Download
-[ckick below to download the ful excel file with dashboard]
+[ckick here to download the ful excel file with dashboard]
 [Book1.1.xlsx](https://github.com/user-attachments/files/30078226/Book1.1.xlsx)
