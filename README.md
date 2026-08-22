@@ -61,7 +61,9 @@ dataset.
 across Furniture, discount rates on Tables and Bookcases 
 specifically should be reviewed and brought closer to the 
 17% level seen on Chairs — a range that has proven profitable 
-even on high-priced items.
+even on high-priced items or if the discount of Tables and Bookcases
+brings the volume then the pricing should be reviewed.
+
 
 ## Tools Used
 Excel — Pivot Tables, Power Query, Interactive Slicers 
