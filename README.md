@@ -43,10 +43,10 @@ cause, and found the problem wasn't uniform across the category:
 
 | Sub-Category | Avg Discount | Avg Sale Price | Profit |
 |---|---|---|---|
-| Tables | 26% | ₹648.79 | -₹17,725.48 |
-| Bookcases | 21% | ₹503.86 | -₹3,472.56 |
-| Chairs | 17% | ₹532.33 | +₹26,590.17 |
-| Furnishings | 14% | ₹95.83 | +₹13,059.14 |
+| Tables | 26% | $648.79 | -$17,725.48 |
+| Bookcases | 21% | $503.86 | -$3,472.56 |
+| Chairs | 17% | $532.33 | +$26,590.17 |
+| Furnishings | 14% | $95.83 | +$13,059.14 |
 
 
 **Insight**: Within similar price ranges, higher discounts 
@@ -68,8 +68,8 @@ Excel — Pivot Tables, Power Query, Interactive Slicers
 (Region, Ship Date), Pivot Charts, Dual-Axis Charting
 
 ## Key Metrics
-- Total Sales: ₹22,97,200.86
-- Total Profit: ₹2,86,397.02
+- Total Sales: $2,297,200.86
+- Total Profit: $286,397.02
 - Profit Margin: 12.47%
 
 ## Files ##
