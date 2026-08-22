@@ -28,7 +28,7 @@ for practice) — approximately 10,000 rows covering 2014-2018.
 While analyzing, I found that Technology performs best overall 
 in both Sales and Profit. Furniture, despite decent sales, is 
 barely profitable — and in the Central region specifically, 
-it's actually running at a loss (-₹2,871). This suggested a 
+it's actually running at a loss (-$2,871). This suggested a 
 discounting or cost issue worth investigating further.
 
 **Regional Performance**
@@ -57,12 +57,12 @@ despite a similar price point to Tables, carries a much lower
 discount and is the most profitable sub-category in the entire 
 dataset.
 
-**Recommendation**: Rather than a blanket discount policy 
-across Furniture, discount rates on Tables and Bookcases 
-specifically should be reviewed and brought closer to the 
-17% level seen on Chairs — a range that has proven profitable 
-even on high-priced items or if the discount of Tables and Bookcases
-brings the volume then the pricing should be reviewed.
+**Recommendation**: The heavy discounts on Tables (26%) and
+Bookcases (21%) must be strategically scaled back towards the
+profitable 17% benchmark seen in Chairs. However, if these items
+can only drive sales volume at >20% discounts, it indicates their 
+base pricing strategy is fundamentally unviable and requires immediate
+restructuring.
 
 
 ## Tools Used
