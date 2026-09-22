@@ -13,7 +13,8 @@ Sample Superstore dataset (publicly available, commonly used
 for practice) — approximately 10,000 rows covering 2014-2018.
 
 ## Dashboard Preview
-<img width="1853" height="772" alt="Screenshot 2026-07-18 162727" src="https://github.com/user-attachments/assets/7aca6850-0ca3-406d-917f-6f539f78d682" />
+<img width="1850" height="769" alt="Screenshot 2026-09-22 193144" src="https://github.com/user-attachments/assets/78d9d69f-6df1-4670-931a-7415ff7696fc" />
+
 
 
 ## What I Analyzed
@@ -75,5 +76,5 @@ Excel — Pivot Tables, Power Query, Interactive Slicers
 - Profit Margin: 12.47%
 
 ## Files ##
-https://1drv.ms/x/c/96fea3b0bf48592d/IQDmlc9RE48LRro1MdxpGT8eAZxsMGaC0imeIcYGoO5b-bg?e=wQIpqC
+https://1drv.ms/x/c/96fea3b0bf48592d/IQDmlc9RE48LRro1MdxpGT8eARFqexikl4JzmYpgqoWEBys?e=bH99YS
 
