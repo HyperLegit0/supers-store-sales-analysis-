@@ -13,8 +13,7 @@ Sample Superstore dataset (publicly available, commonly used
 for practice) — approximately 10,000 rows covering 2014-2018.
 
 ## Dashboard Preview
-<img width="1850" height="769" alt="Screenshot 2026-09-22 193144" src="https://github.com/user-attachments/assets/78d9d69f-6df1-4670-931a-7415ff7696fc" />
-
+<img width="1852" height="767" alt="Screenshot 2026-09-22 230849" src="https://github.com/user-attachments/assets/ce35c668-53dc-4750-897c-cd4aa751e33b" />
 
 
 ## What I Analyzed
